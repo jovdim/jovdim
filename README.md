@@ -1,4 +1,5 @@
- <!--# 💫 About Me:
+🦴 
+<!--# 💫 About Me:
 <br>**👨‍💻 Full Stack Developer**  <br>📍 Manila,Philippines  <br><br>Experienced **Full Stack Developer** with a solid background in both **frontend** and **backend** development. Skilled in **UI/UX design** and **database management**, I focus on building **efficient**, **scalable**, and **user-friendly** web applications. With over a year of hands-on experience.I prioritize delivering high-quality solutions that are both functional and intuitive. Always improving my skills and staying updated with the latest technologies in web development. -->
 <!-- # 💻 Tech Stack:
 ## 🌐 Socials:
